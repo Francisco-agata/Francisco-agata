@@ -1,4 +1,4 @@
-Hi there, i'm Ágata Francisco. 👋
+**Hi there, i'm Ágata Francisco. 👋
 
 - 🔭 I’m currently working as a systems analyst at BMG bank.
 - 🌱 Student of systems analysis and development at Anhembi Morumbi university.
