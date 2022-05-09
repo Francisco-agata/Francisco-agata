@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a systems analyst at BMG bank.
 - 🌱 Student of Flutter development at Cubos academy.
 - 🤔 Pronoums: She/hers.
-- 📫 How to reach me: contato.agatafrancisco@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/agata-francisco/
 - ⚡ Former student of Instituto PROA.
 
 <div>
