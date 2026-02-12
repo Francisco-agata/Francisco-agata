@@ -5,9 +5,9 @@
 - 📫 How to reach me: https://www.linkedin.com/in/agata-francisco/
 
   <div style="display: inline_block"><br>
- <img align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
- <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ <img align="center" alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+ <img align="center" alt="Java"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <img align="center" alt="Python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   </div>
     <br>
   <div>
