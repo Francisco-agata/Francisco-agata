@@ -1,11 +1,9 @@
 **Hi there, i'm Ágata Francisco.** 👋
-- 📫 How to reach me: https://www.linkedin.com/in/agata-francisco/
+- 📚 Student of Artificial Intelligence in Universidade Cruzeiro do Sul
+- 👩‍💻 Working as a Golang Developer in Mercado Livre
 - ⚡ Former student of Instituto PROA.
+- 📫 How to reach me: https://www.linkedin.com/in/agata-francisco/
 
-<div>
-  <a href="https://github.com/Francisco-agata">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-agata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
