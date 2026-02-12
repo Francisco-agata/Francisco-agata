@@ -5,9 +5,9 @@
 - 📫 How to reach me: https://www.linkedin.com/in/agata-francisco/
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Golang" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechicons.dev%2Ficons%2Fgo&psig=AOvVaw2AZXkihRRoq3v1_Y7xVHzS&ust=1770984189456000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICB4q7005IDFQAAAAAdAAAAABAK)">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+ <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   </div>
     <br>
   <div>
