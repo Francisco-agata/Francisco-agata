@@ -1,5 +1,5 @@
 **Hi there, i'm Ágata Francisco.** 👋
-- 📚 Student of Artificial Intelligence in Universidade Cruzeiro do Sul
+- 📚 Student of Artificial Intelligence in the university Cruzeiro do Sul
 - 👩‍💻 Working as a Golang Developer in Mercado Livre
 - ⚡ Former student of Instituto PROA.
 - 📫 How to reach me: https://www.linkedin.com/in/agata-francisco/
